@@ -51,5 +51,6 @@ fakepinterest/
 ├── models.py
 ├── routes.py
 └── forms.py
+```
 
-
+![Captura de tela do FakePinterest](fakepinterest/static/fotos_site/Captura%20de%20tela%20fakepinterest.png)
