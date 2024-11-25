@@ -32,7 +32,7 @@ FakePinterest é uma aplicação web inspirada no Pinterest, que permite aos usu
    git clone https://github.com/seu-usuario/fakepinterest.git
    cd fakepinterest
    
-# 📂 ** Estrutura do Projeto**
+## 📂 **Estrutura do Projeto**
 
 ```plaintext
 fakepinterest/
